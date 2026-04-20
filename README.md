@@ -1,5 +1,9 @@
-<h1 align="center"> Bem-vindo à <span style="color:#ff4d5a;">GIGTECH</span></h1>
-<h3 align="center"> Desde 2011 ajudando a energia chegar até você</h3>
+<p align="center">
+  <img src="assets/banner-gigtech.png" width="100%"/>
+</p>
+
+<h1 align="center"> Bem-vindo à <span style="color:#0A66C2;">GIGTECH</span></h1>
+<h3 align="center">⚡ Desde 2011 ajudando a energia chegar até você</h3>
 
 ---
 
@@ -27,19 +31,18 @@ Nosso foco é entregar **qualidade, eficiência e inovação**, desenvolvendo pr
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.gigtech.com.br/" target="_blank">
-    <img src="https://img.shields.io/badge/Site-000000?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Site-0A66C2?style=for-the-badge"/>
   </a>
   <a href="https://api.whatsapp.com/send/?phone=5511934631130" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="mailto:thomas.soler@gigtech.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Contato-ff4d5a?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Contato-0A66C2?style=for-the-badge"/>
   </a>
   <a href="https://www.youtube.com/@gigtechengenharia" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
 </p>
-
 
 ---
 
