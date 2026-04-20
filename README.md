@@ -1,92 +1,92 @@
 <h1 align="center">🚀 Bem-vindo à <span style="color:#ff4d5a;">GIGTECH</span></h1>
-<h3 align="center">💻 Soluções Tecnológicas Inteligentes para o seu negócio</h3>
+<h3 align="center">⚡ Desde 2011 ajudando a energia chegar até você</h3>
 
 ---
 
-### 🚀 Sobre a GIGTECH  
-- 🧠 Especialistas em **automação de processos, integrações e soluções digitais**  
-- ⚙️ Desenvolvimento de sistemas escaláveis e personalizados  
-- 🔗 Integração entre plataformas (APIs, Make, IA, Google Drive, etc.)  
-- 🤖 Uso de **Inteligência Artificial** para otimização operacional  
-- 📈 Foco em eficiência, produtividade e inovação contínua  
+## 🏢 Sobre a GIGTECH  
+
+A **GIGTECH**, sediada em Salto/SP, é uma empresa de engenharia especializada em soluções customizadas para diversos segmentos industriais.
+
+Nosso foco é entregar **qualidade, eficiência e inovação**, desenvolvendo produtos e projetos que otimizam os processos produtivos de nossos clientes.
 
 ---
 
-### 🌐 Conecte-se com a GIGTECH  
+## ⚙️ O que fazemos  
+
+- Fabricação de máquinas e equipamentos industriais  
+- Usinagem, caldeiraria e solda  
+- Injeção plástica e pintura eletrostática  
+- Corte a laser e dobra CNC  
+- Desenvolvimento de soluções sob medida  
+
+---
+
+## 🌐 Conecte-se com a GIGTECH  
 <p align="center">
   <a href="https://br.linkedin.com/company/gigtech-engenharia" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-GIGTECH-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-GIGTECH-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:thomas.soler@gigtech.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Contato-ff4d5a?style=for-the-badge&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Contato-ff4d5a?style=for-the-badge"/>
   </a>
   <a href="https://github.com" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-GIGTECH-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-GIGTECH-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🧠 Tecnologias Utilizadas  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
-</p>
+## 🏭 Nossos Processos  
+
+Atuamos com excelência em diferentes processos industriais:
+
+- 🔧 Usinagem  
+- 🔩 Caldeiraria  
+- 🔥 Soldagem  
+- 🧪 Injeção plástica  
+- 🎨 Pintura eletrostática  
+
+Seguimos rigorosamente os padrões da **ISO 9001**, garantindo qualidade e confiabilidade.
 
 ---
 
-## 🎨 Frontend & Interface  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" />
-</p>
+## 💡 Nosso Diferencial  
+
+- Desenvolvimento de soluções exclusivas  
+- Atendimento personalizado  
+- Parceria estratégica com clientes  
+- Foco em resultado operacional e econômico  
 
 ---
 
-## ⚙️ Ferramentas & Plataformas  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="50" />
-  <img src="https://devicons.railway.com/i/railway-dark.svg" height="50" />
-</p>
+## 🎯 Propósito  
+
+> Fornecer soluções em produtos e serviços customizados que atendam e superem as necessidades dos clientes.
 
 ---
 
-## 🖥️ Ambientes de Desenvolvimento  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50" />
-</p>
+## 🚀 Missão  
+
+Ser referência e parceiro das concessionárias elétricas do Brasil, contribuindo para a melhoria da performance operacional através de nossos produtos e serviços.
 
 ---
 
-### 📊 Nossa Missão  
-> Transformar processos complexos em soluções simples, automatizadas e eficientes através da tecnologia.
+## 🌱 Valores  
+
+- 🤝 **Compromisso** – Cumprimos o que prometemos  
+- 🛡️ **Segurança** – Prioridade em todas as operações  
+- 👥 **Pessoas** – Trabalho em equipe e transparência  
+- 🔒 **Integridade** – Ética acima de tudo  
+- 🚀 **Inovação** – Melhoria contínua sempre  
 
 ---
 
-### 🎯 Visão  
-Ser referência em automação inteligente e integração de sistemas no Brasil.
+## 👥 Nossa Equipe  
 
----
-
-### 💡 O que fazemos  
-- Automação de fluxos com **Make + IA**  
-- Integração com **Google Drive, APIs e sistemas internos**  
-- Desenvolvimento de soluções personalizadas  
-- Criação de sistemas de validação com IA (imagens, vídeos, dados)  
-- Otimização de processos operacionais  
+Contamos com profissionais registrados no **CREA-SP**, garantindo segurança técnica e credibilidade em todos os projetos.
 
 ---
 
 <p align="center">
-  <i>🚀 Inovação, eficiência e tecnologia trabalhando juntas para o seu crescimento</i>
+  <i>⚡ Ajudando empresas a levar energia elétrica para todos</i>
 </p>
