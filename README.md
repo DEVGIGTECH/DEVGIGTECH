@@ -24,22 +24,23 @@ Nosso foco é entregar **qualidade, eficiência e inovação**, desenvolvendo pr
 ## 🌐 Conecte-se com a GIGTECH  
 <p align="center">
   <a href="https://br.linkedin.com/company/gigtech-engenharia" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-GIGTECH-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.gigtech.com.br/" target="_blank">
-    <img src="https://img.shields.io/badge/Site%20Oficial-GIGTECH-000000?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Site-000000?style=for-the-badge"/>
   </a>
-  <a href="https://api.whatsapp.com/send/?phone=5511934631130&text&type=phone_number&app_absent=0" target="_blank">
+  <a href="https://api.whatsapp.com/send/?phone=5511934631130" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="mailto:thomas.soler@gigtech.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contato-ff4d5a?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Contato-ff4d5a?style=for-the-badge"/>
   </a>
 </p>
 
 <p align="center">
   <b>@gigtechengenharia</b>
 </p>
+
 ---
 
 ## 🏭 Nossos Processos  
