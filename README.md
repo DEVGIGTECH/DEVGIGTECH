@@ -14,14 +14,14 @@
 
 ### 🌐 Conecte-se com a GIGTECH  
 <p align="center">
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://br.linkedin.com/company/gigtech-engenharia" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-GIGTECH-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:thomas.soler@gigtech.com.br" target="_blank">
     <img src="https://img.shields.io/badge/Contato-ff4d5a?style=for-the-badge&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-GIGTECH-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
