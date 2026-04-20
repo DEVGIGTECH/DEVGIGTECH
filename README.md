@@ -28,7 +28,7 @@ Nosso foco é entregar **qualidade, eficiência e inovação**, desenvolvendo pr
 ## 🌐 Conecte-se com a GIGTECH  
 <p align="center">
   <a href="https://br.linkedin.com/company/gigtech-engenharia" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn%20GIGTECH-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.gigtech.com.br/" target="_blank">
     <img src="https://img.shields.io/badge/Site-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
