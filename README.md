@@ -2,7 +2,10 @@
   <img src="assets/banner-gigtech.png" width="100%"/>
 </p>
 
-<h1 align="center"> Bem-vindo à <span style="color:#0A66C2;">GIGTECH</span></h1>
+<h1 align="center">
+  Bem-vindo à 
+  <img src="https://img.shields.io/badge/GIGTECH-0A66C2?style=for-the-badge"/>
+</h1>
 <h3 align="center">⚡ Desde 2011 ajudando a energia chegar até você</h3>
 
 ---
