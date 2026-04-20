@@ -31,13 +31,13 @@ Nosso foco é entregar **qualidade, eficiência e inovação**, desenvolvendo pr
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.gigtech.com.br/" target="_blank">
-    <img src="https://img.shields.io/badge/Site-0A66C2?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Site-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
   <a href="https://api.whatsapp.com/send/?phone=5511934631130" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="mailto:thomas.soler@gigtech.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Contato-0A66C2?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.youtube.com/@gigtechengenharia" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
