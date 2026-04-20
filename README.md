@@ -1,5 +1,5 @@
-<h1 align="center">🚀 Bem-vindo à <span style="color:#ff4d5a;">GIGTECH</span></h1>
-<h3 align="center">⚡ Desde 2011 ajudando a energia chegar até você</h3>
+<h1 align="center"> Bem-vindo à <span style="color:#ff4d5a;">GIGTECH</span></h1>
+<h3 align="center"> Desde 2011 ajudando a energia chegar até você</h3>
 
 ---
 
