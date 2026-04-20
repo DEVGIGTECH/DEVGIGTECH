@@ -2,10 +2,9 @@
   <img src="assets/banner-gigtech.png" width="100%"/>
 </p>
 
-<h1 align="center">
-  Bem-vindo à 
-  <img src="https://img.shields.io/badge/GIGTECH-0A66C2?style=for-the-badge"/>
-</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/GIGTECH%20ENGENHARIA-0A66C2?style=for-the-badge&logoColor=white"/>
+</p>
 <h3 align="center">⚡ Desde 2011 ajudando a energia chegar até você</h3>
 
 ---
