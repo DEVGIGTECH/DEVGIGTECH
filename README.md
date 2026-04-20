@@ -11,6 +11,16 @@ Nosso foco é entregar **qualidade, eficiência e inovação**, desenvolvendo pr
 
 ---
 
+## 🏢 Catálogo de Produtos
+
+<p align="center">
+  <img src="URL1" width="200"/>
+  <img src="URL2" width="200"/>
+  <img src="URL3" width="200"/>
+  <img src="URL4" width="200"/>
+  <img src="URL5" width="200"/>
+</p>
+
 ## ⚙️ O que fazemos  
 
 - Fabricação de máquinas e equipamentos industriais  
