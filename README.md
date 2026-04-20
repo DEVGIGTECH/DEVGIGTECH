@@ -35,10 +35,11 @@ Nosso foco é entregar **qualidade, eficiência e inovação**, desenvolvendo pr
   <a href="mailto:thomas.soler@gigtech.com.br" target="_blank">
     <img src="https://img.shields.io/badge/Contato-ff4d5a?style=for-the-badge"/>
   </a>
-</p>
-<a href="https://www.youtube.com/@gigtechengenharia" target="_blank">
+  <a href="https://www.youtube.com/@gigtechengenharia" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
+</p>
+
 
 ---
 
