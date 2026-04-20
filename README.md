@@ -36,10 +36,9 @@ Nosso foco é entregar **qualidade, eficiência e inovação**, desenvolvendo pr
     <img src="https://img.shields.io/badge/Contato-ff4d5a?style=for-the-badge"/>
   </a>
 </p>
-
-<p align="center">
-  <b>@gigtechengenharia</b>
-</p>
+<a href="https://www.youtube.com/@gigtechengenharia" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 
 ---
 
